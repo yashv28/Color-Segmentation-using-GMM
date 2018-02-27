@@ -23,13 +23,13 @@ Parameter Estimation is done by using the formula: The values were calculated an
 
 | Test Images | Segmentation | Barrel Detection |
 | ----------- | ----------- | ----------- |
-| ![](2018Proj1_train/2.14.png) | ![](EM Output/2.14RED.png) | ![](Final%20Output/2.14Final.png) 
-| ![](2018Proj1_train/10.1.png) | ![](EM Output/10.1RED.png) | ![](Final Output/10.1Final.png) 
-| ![](Test Images/002.png) | ![](EM Output/002RED.png) | ![](Final Output/002Final.png) 
-| ![](Test Images/003.png) | ![](EM Output/003RED.png) | ![](Final Output/003Final.png)
-| ![](Test Images/007.png) | ![](EM Output/007RED.png) | ![](Final Output/007Final.png)  
-| ![](Test Images/009.png) | ![](EM Output/009RED.png) | ![](Final Output/009Final.png)
-| ![](Test Images/010.png) | ![](EM Output/010RED.png) | ![](Final Output/010Final.png) 
+| ![](2018Proj1_train/2.14.png) | ![](EM%20Output/2.14RED.png) | ![](Final%20Output/2.14Final.png) 
+| ![](2018Proj1_train/10.1.png) | ![](EM%20Output/10.1RED.png) | ![](Final%20Output/10.1Final.png) 
+| ![](Test%20Images/002.png) | ![](EM%20Output/002RED.png) | ![](Final%20Output/002Final.png) 
+| ![](Test%20Images/003.png) | ![](EM%20Output/003RED.png) | ![](Final%20Output/003Final.png)
+| ![](Test%20Images/007.png) | ![](EM%20Output/007RED.png) | ![](Final%20Output/007Final.png)  
+| ![](Test%20Images/009.png) | ![](EM%20Output/009RED.png) | ![](Final%20Output/009Final.png)
+| ![](Test%20Images/010.png) | ![](EM%20Output/010RED.png) | ![](Final%20Output/010Final.png) 
 
 # Instructions
 Place the test images in "Test Images"
