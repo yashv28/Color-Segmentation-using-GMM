@@ -1,5 +1,10 @@
-Color-Segmentation-using-GMM
+Color Segmentation using GMM
 ============================
+
+** University of Pennsylvania, ESE 650: GLearning in Robotics, Project 1
+
+* Yash Vardhan
+* Tested on: Windows 10 Pro, Intel i5-4200U (4) @ 2.600GHz 4GB
 
 In this project, I have implemented an approach for robust color segmentation which was further used to detect a red barrel based on shape statistics. The different color representations of red barrel contain variations in illumination, occlusion and tilt. This is the reason Gaussian Mixture Models was used to represent these variations.
 
