@@ -15,6 +15,7 @@ After the red regions of the barrel had been segmented, to connect the known reg
 
 Parameter Estimation is done by using the formula: The values were calculated and estimated by averaging from these 2 formulas:
 
+| Vertical FoV | Horizontal FoV |
 | ----------- | ----------- |
 | ![](images/fov1.png) | ![](images/fov2.png) |
 
@@ -22,7 +23,7 @@ Parameter Estimation is done by using the formula: The values were calculated an
 
 | Test Images | Segmentation | Barrel Detection |
 | ----------- | ----------- | ----------- |
-| ![](2018Proj1_train/2.14.png) | ![](EM Output/2.14RED.png) | ![](Final Output/2.14Final.png) 
+| ![](2018Proj1_train/2.14.png) | ![](EM Output/2.14RED.png) | ![](Final%20Output/2.14Final.png) 
 | ![](2018Proj1_train/10.1.png) | ![](EM Output/10.1RED.png) | ![](Final Output/10.1Final.png) 
 | ![](Test Images/002.png) | ![](EM Output/002RED.png) | ![](Final Output/002Final.png) 
 | ![](Test Images/003.png) | ![](EM Output/003RED.png) | ![](Final Output/003Final.png)
